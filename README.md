@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <br />
 <div align="center">
@@ -8,7 +8,7 @@
 
   <div style="margin-top:20px; margin-bottom:20px;">
   <img width="100" height="100" src="assets/mascot_head.png">
-    <h1 align="center">BMO Wallet</h1>
+    <h1 align="center">Rama Wallet</h1>
   </div>
 
   <p align="center">
